@@ -1,5 +1,10 @@
 # W# (WinHash) Manipal Hackathon 2024 
 **Team Name:** W# (WinHash)
+Project Build by:
+1. Yashraj Sakunde
+2. Aditanshu Sahu
+3. Jayesh Raheja
+4. Rishit Kumar
 
 **Problem Statement:** Problem ID: G1 | Mutual Funds Financial Literacy Application
 ## 📜 Introduction
